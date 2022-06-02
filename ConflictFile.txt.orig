@@ -1,11 +1,15 @@
 Bow bow bow
 Hello World India
 New Line
-I am merged3
+I am merged2
 Blah Blah stash
 Bob
 Alice Stashing
 xyz
 ka ka
+<<<<<<< HEAD
+kjk
+
+=======
 new dove
-moms
+>>>>>>> 06fe9e3... new dove
